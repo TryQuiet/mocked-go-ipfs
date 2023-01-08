@@ -1,0 +1,15 @@
+{
+  "name": "mocked-go-ipfs",
+  "version": "0.17.0",
+  "description": "This is a stub package that is here to prevent instalation of actual go-ipfs, which we don't use and it weights ~75mb",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tryQuiet/mocked-go-ipfs.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
